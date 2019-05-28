@@ -1,4 +1,8 @@
-### Running a c++ application from mac's terminal vs-code
+# Running a c++ application from mac's terminal vs-code
+
+## Youtube video link: https://youtu.be/kXhRAVb0Ol0
+
+## GitHub repo link: https://github.com/Shendidy/hello_world-cpp.git
 
 To get started after installing vs-code, make sure to install the add-on c/c++:
 
